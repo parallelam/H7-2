@@ -1,6 +1,6 @@
-# H7-2
+# Multiplayer Rock Paper Scissors
 
-H7-2 Multiplayer Rock Paper Scissors
+Multiplayer Rock Paper Scissors
 
 This game was designed to allow for two individual human users to simultaneously player Rock Paper Scissors against one another in real time.
 
